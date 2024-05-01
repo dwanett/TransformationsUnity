@@ -6,6 +6,6 @@ public class Mover : MonoBehaviour
     
     void Update()
     {
-        transform.Translate(_directionMove);
+        transform.Translate(_directionMove * Time.deltaTime);
     }
 }

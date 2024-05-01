@@ -276,7 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee5955973207f894d99ff94b56b2274d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _directionMove: {x: 0, y: 0, z: 0.1}
+  _directionMove: {x: 0, y: 0, z: 1}
 --- !u!114 &198577001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -728,7 +728,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee5955973207f894d99ff94b56b2274d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _directionMove: {x: 0, y: 0, z: 0.001}
+  _directionMove: {x: 0, y: 0, z: 1}
 --- !u!135 &1832228445
 SphereCollider:
   m_ObjectHideFlags: 0
